@@ -1,0 +1,1 @@
+This is a simple website to serve static files using the http and fs modules. The project is constructed on the Node js framework. The static webpages are in html and styles using css
